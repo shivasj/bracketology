@@ -9,5 +9,4 @@ take some time to download depending on the speed of your interent connection.
 ```
 # install.packages("devtools")
 library(devtools)
-install_github("seankross/bracketology")
 ```
